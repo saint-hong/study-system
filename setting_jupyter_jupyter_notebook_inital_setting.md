@@ -1,6 +1,6 @@
 # jupyter notebook 초기 setting
-- jupyter notebook을 원활하게 사용하기 위한 초기 세팅 정리
-- jupyter notebook의 설치 과정은 패키지 버전 관리와 함께 고려해야 하므로 따로 정리함.
+- jupyter notebook을 완전하게 설치 후 원활하게 사용하기 위한 초기 세팅 정리
+   - jupyter notebook의 설치 과정은 패키지 버전 관리와 함께 고려해야 하므로 따로 정리함.
 
 ## jupyter_nbextensions_configurator 설치
 - pip install jupyter_nbextensions_configurator
