@@ -40,7 +40,8 @@
    - git은 코드의 버전관리 시스템
    - tig 설치 : sudo apt install tig
       - it 커밋 히스토리를 터미널에서 보여주는 툴
-      
+- conda update : conda update -n new_env      
+
 ## 개발용 가상환경 생성 및 패키지 설치
 - 기본적으로 모든 패키지 설치는 conda로 하고, 예외적으로 pip를 사용한다.
    - conda 가 더 패키지 관리에 유용하다.
